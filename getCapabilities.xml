@@ -177,7 +177,7 @@
 				<Title>drogi_wojewodzkie</Title>
 				<Abstract>GH:drogi_wojewodzkie ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="20.562179535997377" miny="52.63089425481595" maxx="20.70563278532299" maxy="52.67091633311479"></LatLonBoundingBox>
@@ -197,7 +197,7 @@
 				<Title>powiatowe_drogi</Title>
 				<Abstract>GH:powiatowe_drogi ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="20.58025371712697" miny="52.58492987477233" maxx="20.728178412662768" maxy="52.7225598860457"></LatLonBoundingBox>
@@ -217,7 +217,7 @@
 				<Title>granice_gminy_pod_studium</Title>
 				<Abstract>GH:granice_gminy_pod_studium ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸3</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="20.557570847987737" miny="52.5776676025811" maxx="20.732796462406597" maxy="52.72620644960591"></LatLonBoundingBox>
